@@ -1,16 +1,22 @@
-### Hi there 👋
+ <div align="center">
+ <h1 align="center">Aurorabili ❤ OpenSource</h1>
+ 
+  <img src="https://github-readme-stats.vercel.app/api?username=Aurorabili&layout=compact&hide=html&title_color=CC88BB&text_color=885566&bg_color=20,F2FBFF,E6F8FF,FFE6EB,FFF2F5" align="center" alt="GitHub stats" />
+ 
+</div>
 
-<!--
-**Aurorabili/Aurorabili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 👋 Hi there
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Aurora and I'm a college student studying data science.
+
+I am also an OIER learning algorithm.
+
+## ❤️ Hobby
+- Coding
+- Anime
+- ~~Lying flat~~
+
+## 📫 Contact
+- Telegram: [@Aurorabili](https://t.me/Aurorabili)
+- Mail: aurorabili@outlook.com
