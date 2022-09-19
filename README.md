@@ -10,6 +10,7 @@
 # 👋 Hi there
 
 My name is Aurora and I'm a college student studying data science.
+At the same time I am studying research in bioinformatics.
 
 I am also an OIER learning algorithm.
 
