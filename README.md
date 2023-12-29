@@ -27,3 +27,6 @@ I am also an OIER learning algorithm.
 ## 📫 Contact
 - Telegram: [@Aurorabili](https://t.me/Aurorabili)
 - Mail: aurorabili@outlook.com
+
+## 🔑 GPG
+[🔑 GPG PUBLIC KEY](https://github.com/Aurorabili.gpg)
