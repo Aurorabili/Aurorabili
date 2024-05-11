@@ -14,7 +14,7 @@ At the same time I am studying research in bioinformatics.
 I am also an OIER learning algorithm.
 
 ## 🎓 Experience
-- Bachelor, Data Science & Technology, Guangdong Medical University (2022 ~ )
+- Undergraduate, Data Science & Technology, Guangdong Medical University (2022 ~ )
 
 ## ❤️ Hobby
 - Coding
