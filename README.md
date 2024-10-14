@@ -18,14 +18,12 @@ I am also an OIER learning algorithm.
 
 ## ❤️ Hobby
 - Coding
-- Anime
-- ~~Lying flat~~
+- Anime & ACGN
 
 ## #️⃣ Language
 [![#️⃣ Language](https://skillicons.dev/icons?i=c,cpp,cs,dotnet,py,rust,r)](https://skillicons.dev)
 
 ## 📫 Contact
-- Telegram: [@Aurorabili](https://t.me/Aurorabili)
 - Mail: aurorabili@outlook.com
 
 ## 🔑 GPG
