@@ -1,5 +1,5 @@
  <div align="center">
- <h1 align="center">Aurorabili ❤ OpenSource</h1>
+ <h1 align="center">Aurorabili 🎇 Hi, 2025! </h1>
  
   <img src="https://github-readme-stats.vercel.app/api?username=Aurorabili&count_private=true&layout=compact&hide=html&title_color=CC88BB&text_color=885566&bg_color=20,F2FBFF,E6F8FF,FFE6EB,FFF2F5" align="center" alt="GitHub stats" />
  
